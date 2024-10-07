@@ -1,0 +1,22 @@
+.recipeContainer {
+	border: 1px solid black;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+  }
+  
+  .recipeTitle {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 10px;
+  }
+  
+  .sectionHeader {
+	font-weight: bold;
+	margin-top: 10px;
+  }
+  
+  .ingredientsList, .instructionsList {
+	margin: 10px 0;
+	padding-left: 20px;
+  }

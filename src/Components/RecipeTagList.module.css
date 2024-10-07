@@ -1,0 +1,15 @@
+.listContainer {
+	margin-top: 20px;
+  }
+  
+  .tagList {
+	list-style: none;
+	padding: 0;
+  }
+  
+  .listItem {
+	margin-bottom: 0px;
+	border: 1px solid black;
+	padding: 10px;
+  }
+  

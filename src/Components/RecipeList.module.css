@@ -1,0 +1,15 @@
+.backButton {
+	padding: 8px 12px;
+	margin-bottom: 20px;
+	background-color: #f0f0f0;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+  }
+  
+  .header {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-bottom: 20px;
+  }
+  
